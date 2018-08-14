@@ -20,7 +20,7 @@
 [download-image]: https://img.shields.io/npm/dm/egg-hashids.svg?style=flat-square
 [download-url]: https://npmjs.org/package/egg-hashids
 
-> hashids plugin for egg
+> [hashids.js](https://github.com/ivanakimov/hashids.js) plugin for egg
 
 ## Install
 
