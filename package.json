@@ -47,12 +47,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-hashids.git"
+    "url": "git+https://github.com/viko16/egg-hashids.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/viko16/egg-hashids/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-hashids#readme",
+  "homepage": "https://github.com/viko16/egg-hashids#readme",
   "author": "viko16",
   "license": "MIT"
 }
